@@ -1,3 +1,7 @@
-.img-brightness{
+.hero-image{
  filter: brightness(50%); 
+ height: 687px;
+}
+.course-image{
+    height: 100%;
 }
